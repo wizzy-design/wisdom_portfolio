@@ -12,10 +12,10 @@
     --font-bold: 700;
 
     /* Colors */
-    --first-color: #CC4B2C;
-    --first-color-dark: #662616;
-    --first-color-darken: #290F09;
-    --text-color: #54423D;
+    --first-color: #00284d;
+    --first-color-dark: #001a33;
+    --first-color-darken: #021629;
+    --text-color: #254d74;
     --first-color-light: #EAE7E6;
     --first-color-lighten: #FFFAFA;
 
@@ -565,7 +565,7 @@ nav.nav{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgba(204, 75, 44, .7);
+    background: #1f4061;
     border-radius: .5rem;
     transition: .3s;
 }
