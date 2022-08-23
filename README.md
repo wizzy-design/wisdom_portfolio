@@ -2,13 +2,14 @@
 This is my first portfolio site. Tools used were HTML, CSS & JS.
 A huge thank you to BedimCode Youtube channel for their amazing designs i adopted to make this site.
 
+### Link
+
+- Live Site URL: [portfolio link](https://wizzy-design.github.io/wisdom_portfolio/)
+ 
+
 ### Screenshot
 
 ![](./img/My%20portfolio.png)
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://wizzy-design.github.io/wisdom_portfolio/)
 
 ## My process
 
